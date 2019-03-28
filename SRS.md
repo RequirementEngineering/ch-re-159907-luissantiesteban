@@ -3,6 +3,7 @@
   - [Introduction](#Introduction)
   - [Overall Description](#Overall-Description)
   - [Specific requirements](#Specific-requirements)
+  - [Functional requirements](#Functional-requirements)
   
   ## Introduction ##
   
@@ -14,7 +15,7 @@
   
   ### Reference
   
-  ### verview
+  ### Overview
   
   ## Overall Description ##
   
@@ -31,5 +32,15 @@
   ### Apportioning of requirements
   
   ## Specific requirements ##
+  
+  ### User interfcaes
+  
+  ### Hardware interfaces
+  
+  ### Software interfaces
+  
+  ### Communications interface
+  
+  ## Functional requirements ##
   
   
