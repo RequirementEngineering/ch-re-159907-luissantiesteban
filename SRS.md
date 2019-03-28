@@ -1,10 +1,10 @@
 # SRS (Software Requirements Specification)
 
   - [Introduction](#Introduction)
-  - [Overall Description](#Overal-description)
+  - [Overall Description](#Overal-Description)
   - [Specific requirements](#Specific-requirements)
   
-  ## Introducction ##
+  ## Introduction ##
   
   ### Purpose 
   
