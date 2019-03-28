@@ -1,7 +1,5 @@
-# ch_re
-Requirements Engineering
+# SRS (Software Requirements Specification>
 
-h1<SRS (Software Requirements Specification>h1
   - [Introduction](#Introduction)
   - [Overall Description](#Overal-description)
   - [Specific requirements](#Specific-requirements)
