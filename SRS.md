@@ -1,4 +1,4 @@
-# SRS (Software Requirements Specification>
+# SRS (Software Requirements Specification)
 
   - [Introduction](#Introduction)
   - [Overall Description](#Overal-description)
