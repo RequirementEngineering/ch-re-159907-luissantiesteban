@@ -22,7 +22,7 @@ El objetivo principal es la extracción de información. A la hora de tener un r
 El manejar un lector de código de barras para el registro ayudara a evitar que personas ajenas a la empresa suban al camión.
 La Maquila podrá tener acceso a los reportes generados (Empleados que usaron el transporte) lo que les permitirá saber cuando son necesarios mas camiones y cuando necesitan menos. Con el acceso a las rutas recorridas del camión, la maquiladora podrá manejar de una manera más viable la asistencia de sus empleados, es decir, sabrá si realmente el empleado llego tarde por culpa del retraso del camión o simplemente porque no paso por la ruta donde debería de recogerlos. Con el tiempo todo este almacenamiento de información en una base de datos permitirá generar un análisis predictivo que ayudará a mejorar financieramente a la empresa.
 
-Al emplear IoT en nuestro sistema permitirá que la información este al alcance de la mano en cualquier momento, esto es posible ya que el registro de los datos es en tiempo real y será mostrado en una pagina web de igual manera.
+Al emplear IIoT en nuestro sistema permitirá que la información este al alcance de la mano en cualquier momento, esto es posible ya que el registro de los datos es en tiempo real y será mostrado en una pagina web de igual manera.
 
   
   ### Definictions, acronyms, and abbreviations
